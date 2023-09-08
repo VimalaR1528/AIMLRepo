@@ -4,3 +4,4 @@
 4. git push : to push to my central repo
 5. git push origin HEAD
 6. working on stash command.
+7. From Visual studio code.
