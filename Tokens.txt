@@ -1,1 +1,3 @@
-Go to settings and choose developer option and generate the key.
+1.Go to settings and choose developer option and generate the key.
+2.use the git pull command to pull the changes from remote repo.
+3. Create your branch and make changes.
