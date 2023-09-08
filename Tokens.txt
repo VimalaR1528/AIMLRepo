@@ -1,1 +1,2 @@
 Go to settings and choose developer option and generate the key.
+use the git pull command to pull the changes from remote repo.
