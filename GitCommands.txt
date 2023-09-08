@@ -3,3 +3,4 @@
 3. git commit : to commit to the .git repo
 4. git push : to push to my central repo
 5. git push origin HEAD
+6. working on stash command.
